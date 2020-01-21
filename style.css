@@ -1,5 +1,6 @@
 html{
-	background-color: yellow;
+	background-image: url("background.png");
+	background-size: 1000px;
 }
 h3 {
 	color:blue;
